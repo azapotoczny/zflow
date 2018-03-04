@@ -2,7 +2,7 @@ using System;
 
 namespace ZFlow
 {
-    public abstract class Trigger
+    public class Trigger
     {
         public event EventHandler Pulled = (o, e) => { };
 

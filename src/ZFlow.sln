@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZFlow", "ZFlow\ZFlow.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZFlow.Tests", "ZFlow.Tests\ZFlow.Tests.csproj", "{2232C29B-7B1D-46EC-98BB-7F1EF26F6107}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZFlow.Sample", "ZFlow.Sample\ZFlow.Sample.csproj", "{52ACFEEC-BD7A-4197-82A0-A6A6139247B4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Samples", "Samples", "{6314EBC8-9B6D-412D-A285-492D79D4F93C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,12 @@ Global
 		{2232C29B-7B1D-46EC-98BB-7F1EF26F6107}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2232C29B-7B1D-46EC-98BB-7F1EF26F6107}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2232C29B-7B1D-46EC-98BB-7F1EF26F6107}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52ACFEEC-BD7A-4197-82A0-A6A6139247B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52ACFEEC-BD7A-4197-82A0-A6A6139247B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52ACFEEC-BD7A-4197-82A0-A6A6139247B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52ACFEEC-BD7A-4197-82A0-A6A6139247B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{52ACFEEC-BD7A-4197-82A0-A6A6139247B4} = {6314EBC8-9B6D-412D-A285-492D79D4F93C}
 	EndGlobalSection
 EndGlobal

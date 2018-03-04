@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <OutputType>Exe</OutputType>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ZFlow\ZFlow.csproj">
+      <Project>{9547109D-E775-4870-9895-033B97C7EC79}</Project>
+      <Name>ZFlow</Name>
+    </ProjectReference>
+  </ItemGroup>
+</Project>

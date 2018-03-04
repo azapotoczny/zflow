@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZFlow", "ZFlow\ZFlow.csproj", "{9547109D-E775-4870-9895-033B97C7EC79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZFlow.Tests", "ZFlow.Tests\ZFlow.Tests.csproj", "{2232C29B-7B1D-46EC-98BB-7F1EF26F6107}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9547109D-E775-4870-9895-033B97C7EC79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9547109D-E775-4870-9895-033B97C7EC79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9547109D-E775-4870-9895-033B97C7EC79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9547109D-E775-4870-9895-033B97C7EC79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2232C29B-7B1D-46EC-98BB-7F1EF26F6107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2232C29B-7B1D-46EC-98BB-7F1EF26F6107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2232C29B-7B1D-46EC-98BB-7F1EF26F6107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2232C29B-7B1D-46EC-98BB-7F1EF26F6107}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
